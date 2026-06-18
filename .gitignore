@@ -4,3 +4,9 @@
 *.srt
 .venv/
 audio_files/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.diarization.json
+*.meta.json
